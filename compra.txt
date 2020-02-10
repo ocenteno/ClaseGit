@@ -4,3 +4,4 @@ pepinos
 cebollas
 Calabazas
 aceitunas
+zanahorias
